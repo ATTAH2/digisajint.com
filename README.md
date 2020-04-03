@@ -1,2 +1,0 @@
-# digisajint.com
-Begin app
